@@ -1,0 +1,16 @@
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 23vh;
+}
+.button {
+}
+.thumbnail-items {
+  display: flex;
+  flex-direction: row;
+  margin: 2vh;
+}

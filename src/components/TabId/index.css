@@ -1,0 +1,13 @@
+.items {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.tab-buttons {
+  border-width: 0px;
+
+  font-size: 30px;
+  margin-left: 12vh;
+  background-color: transparent;
+  color: #ffffff;
+}
